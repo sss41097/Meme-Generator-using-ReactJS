@@ -1,6 +1,8 @@
 
-## 'Random Meme Generator'
+## Random Meme Generator
 This example will generate random meme's every time user click on Generate button. This example uses Imgflip Api to fetch image and return get data in JSON format. Users entered text will display above the image and will increase the font size dynamically.
+
+## Technologies Used - ReactJS, HTML, CSS, Javascript
 
 ## Available Scripts
 
